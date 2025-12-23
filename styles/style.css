@@ -1,5 +1,6 @@
 *, *::before, *::after {
     box-sizing:border-box;
+    color:white;
 }
 .site-header {
     background-color:hsl(217, 28%, 15%);
