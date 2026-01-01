@@ -1,5 +1,5 @@
-# Osore
-# Frontend Mentor - Fylo dark theme landing page
+[# Osore
+# Frontend Mentor - Fylo dark theme landing page](https://www.dreamhost.com/blog/html5-semantic/)
 
 ![Design preview for the Fylo dark theme landing page challenge](preview.jpg)
 
