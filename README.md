@@ -1,3 +1,4 @@
+https://wesbos.com/javascript
 https://www.joshwcomeau.com/css/custom-css-reset/
 https://htmlcheatsheet.com/css/
 [# Osore
