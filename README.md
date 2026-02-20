@@ -1,3 +1,4 @@
+https://learn.microsoft.com/zh-tw/entra/identity-platform/tutorial-native-authentication-single-page-app-react-sign-up
 https://wesbos.com/javascript
 https://www.joshwcomeau.com/css/custom-css-reset/
 https://htmlcheatsheet.com/css/
